@@ -1,5 +1,5 @@
 # ReviewPredictor
--
+
 Python Notebook For Board Games Review Predictor using Linear Regressor and Random Forest Techniques
 -
 Reviews can make or break a product; as a result, it becomes important for companies take drastic measures to ensure that their product receives good reviews.  When it comes to board games, reviews and word-of-mouth are everything. 
